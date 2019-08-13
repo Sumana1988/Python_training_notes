@@ -1,0 +1,77 @@
+Python Course in Bangalore Syllabus
+Session 1: Introduction
+Why do we need Python?
+Program structure
+Execution steps
+Interactive Shell
+Executable or script files
+User Interface or IDE
+Session 2: Memory management and Garbage collections
+Object creation and deletion
+Object properties
+Data Types and Operations
+Numbers
+Strings
+List
+Tuple
+Dictionary
+Other Core Types
+Session 3: Statements and Syntax
+Assignments, Expressions, and prints
+If tests and Syntax Rules
+While and For Loops
+Iterations and Comprehensions
+Session 4: File Operations
+Opening a file
+Using Files
+Other File tools
+Session 5: Functions
+Function definition and call
+Function Scope
+Arguments
+Function Objects
+Anonymous Functions
+Session 6: Modules and Packages
+Module Creations and Usage
+Module Search Path
+Module Vs. Script
+Package Creation and Importing
+Session 7: Classes
+Classes and instances
+Classes method calls
+Inheritance and Compositions
+Static and Class Methods
+Bound and Unbound Methods
+Operator Overloading
+Polymorphism
+Session 8: Exception Handling
+Default Exception Handler
+Catching Exceptions
+Raise an exception
+t xxUser defined exception
+Session 9: Advanced Concepts
+Defining Panda
+Pandas – Creating and Manipulating Data
+How to Create Data Frames?
+Importance of Grouping and Sorting
+Plotting Data
+Session 10: Django
+Django overview
+Creating a project
+Apps life cycle
+Admin interface
+Creating views
+URL Mapping
+Template system
+Models
+Form details
+Testing
+Page redirection
+Sending Emails
+Deploying Django framework
+Generic views
+Form processing
+File uploading
+Cookie handling
+Sessions, caching and comments
+RSS,AJAX

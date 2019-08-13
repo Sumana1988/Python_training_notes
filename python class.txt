@@ -1,0 +1,84 @@
+Memory managemnt
+function calling -interpretation
+print statement
+data types - list , float , interger , string 
+typecating print(int(a)) print(float(a))
+operators
+nargs , *num ,**kwargs
+
+even odd - ask the input continelously , if input = -1 , it should stop
+
+operatorscharacter sequence - array ==
+string 
+array constraints 
+import array as arr
+import numpy as np 
+file , module , library , frameworks 
+list - [ 1 , 2 , 2] - for loop
+mutaility ( manupulation of datastru) - append --list
+tupple - sam eas list but fixed in size feauture , inmutable ( 1 , 2 , 3 )
+set - sorting of data , duplicate containt not acceptable
+dictonary - more amount of data , key value pair , key should not be duplicate - rarely for loop 
+
+
+------------3rd class
+****key words
+
+None , or , and , import , as , from , assert , break  , continue
+
+import threading 
+import "folder" as fccp
+from "folder" import some,
+some ()
+----
+assert - unit testinh
+tty , except , finally , collections ( counter , nameddic , advdic )
+-------------file operations :
+
+read :  
+
+Methods :
+1) file.read
+2) readline
+3) readlines
+
+file_object :
+
+Methid :
+
+1) write
+2)
+
+
+
+
+---------------
+
+fil I/0
+modules
+numpy ,  pandas , matplotlib
+
+excel - find out top 3 rows -(foor loop / panda )
+
+decoratores , files , modules 
+ 
+_int_ === constructor
+class constructor , will call as soon as you call object of a class
+
+object creation , self key word , init method call ( constructor )
+
+https://www.programiz.com/python-programming/quiz  
+
+https://www.programiz.com/python-programming/inheritance
+
+https://www.programiz.com/python-programming/file-operation 
+
+data structure with oops , data manupulation 
+
+list of string / int now it list of objects 
+
+static and nostatic data , with creating object 
+
+decorator , file operations 
+
+create a emp list , 5 details inside init mehthod , make a list of the object , print one by one                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              gvvg                     b

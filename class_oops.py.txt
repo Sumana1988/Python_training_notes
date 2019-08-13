@@ -1,0 +1,18 @@
+class Emp:
+
+  def __init__(self , id , name , salary ):
+
+      self.id = id
+      self.name = name
+      self.salary = salary
+
+L = [  ]
+
+for i in range(10):
+    emp1 = Emp('123', 'sumana', '4000')
+    emp2 = Emp('1234', 'senthil', '40000')
+    L.append(emp1)
+    L.append(emp2)
+
+for i in L:
+    print ( i.id, i.name, i.salary )
